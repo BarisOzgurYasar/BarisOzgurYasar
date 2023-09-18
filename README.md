@@ -33,5 +33,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisozguryasar&show_icons=true&locale=en&layout=compact" alt="barisozguryasar" /></p>
 
-![snake gif](https://github.com/BarisOzgurYasar/BarisOzgurYasar/blob/output/github-contribution-grid-snake.gif)
+
 
