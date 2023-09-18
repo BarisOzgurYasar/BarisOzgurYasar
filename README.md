@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Barış Özgür Yaşar</h1>
+<h1 align="center">Hello There 👋, I'm Barış Özgür Yaşar</h1>
 - 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Node.js**
